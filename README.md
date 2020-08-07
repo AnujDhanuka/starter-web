@@ -5,7 +5,7 @@
 	This is an example to show the difference 
 
 ## Deployment
-
+	As stated above the main purpose is to provide the git
 ## Purpose
-
+	This is as simple web project
 ## How To Contribute
