@@ -9,6 +9,6 @@
 ## Purpose
 	This is as simple web project
 ## How To Contribute
-
+	Pleas fork this repository 
 ## Copyright
 	anuj dhanuka
