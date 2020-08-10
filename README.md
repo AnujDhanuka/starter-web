@@ -9,3 +9,6 @@
 ## Purpose
 	This is as simple web project
 ## How To Contribute
+
+## Copyright
+	anuj dhanuka
